@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UWZ2+rv5yHm29SjnQSrECCjkqtLus8nYVjd3tlz2+F0=",
+  "Source": "WarehouseSecuriryWebapi",
+  "BasePath": "_content/WarehouseSecuriryWebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
