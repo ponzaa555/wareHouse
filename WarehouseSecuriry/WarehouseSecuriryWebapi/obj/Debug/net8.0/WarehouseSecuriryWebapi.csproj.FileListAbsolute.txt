@@ -31,3 +31,9 @@
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/obj/Debug/net8.0/WarehouseSecuriryWebapi.pdb
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/obj/Debug/net8.0/WarehouseSecuriryWebapi.genruntimeconfig.cache
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/obj/Debug/net8.0/ref/WarehouseSecuriryWebapi.dll
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/bin/Debug/net8.0/WarehouseSecurityApplication.deps.json
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/bin/Debug/net8.0/WarehouseSecurityApplication.runtimeconfig.json
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/bin/Debug/net8.0/WarehouseSecurityApplication
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/bin/Debug/net8.0/WarehouseSecurityApplication.dll
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/bin/Debug/net8.0/WarehouseSecurityApplication.pdb
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryWebapi/obj/Debug/net8.0/WarehouseSecuriryWebapi.sourcelink.json

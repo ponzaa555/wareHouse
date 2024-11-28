@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseSecuriryInfrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarehouseSecuriryWebapi", "WarehouseSecuriry\WarehouseSecuriryWebapi\WarehouseSecuriryWebapi.csproj", "{3373B26C-B169-419B-A3FA-CB8375846E35}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WarehouseSale", "WarehouseSale", "{28362831-21F8-4011-BB03-A344D25D9D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
