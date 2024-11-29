@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2+X3t454QlY=",
+  "dgSpecHash": "90MFOfrK8+A=",
   "success": true,
   "projectFilePath": "/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecuriryInfrastructure/WarehouseSecuriryInfrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/napontansiri/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/napontansiri/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/napontansiri/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "/Users/napontansiri/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "/Users/napontansiri/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",

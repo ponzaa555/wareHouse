@@ -17,6 +17,8 @@ public partial class SecurityContext : DbContext
     {
     }
 
+    public virtual DbSet<Account> Account { get; set; }
+
     public virtual DbSet<Product> Product { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -29,14 +31,24 @@ public partial class SecurityContext : DbContext
             .UseCollation("utf8mb4_0900_ai_ci")
             .HasCharSet("utf8mb4");
 
+        modelBuilder.Entity<Account>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PRIMARY");
+
+            entity.Property(e => e.Id).HasMaxLength(36);
+            entity.Property(e => e.CreateDate).HasColumnType("datetime");
+            entity.Property(e => e.Password).HasMaxLength(100);
+            entity.Property(e => e.Username).HasMaxLength(100);
+        });
+
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasNoKey();
+            entity.HasKey(e => e.ProductId).HasName("PRIMARY");
 
+            entity.Property(e => e.ProductId).HasMaxLength(36);
             entity.Property(e => e.Barcode).HasMaxLength(100);
             entity.Property(e => e.CreateBy).HasMaxLength(100);
             entity.Property(e => e.CreateDate).HasColumnType("datetime");
-            entity.Property(e => e.ProductId).HasMaxLength(36);
             entity.Property(e => e.Productname).HasMaxLength(100);
             entity.Property(e => e.UpdateBy).HasMaxLength(100);
             entity.Property(e => e.UpdateDate).HasColumnType("datetime");

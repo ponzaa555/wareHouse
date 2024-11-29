@@ -1,6 +1,4 @@
-/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/bin/Debug/net8.0/WarehouseSecurityApplication
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/bin/Debug/net8.0/WarehouseSecurityApplication.deps.json
-/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/bin/Debug/net8.0/WarehouseSecurityApplication.runtimeconfig.json
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/bin/Debug/net8.0/WarehouseSecurityApplication.dll
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/bin/Debug/net8.0/WarehouseSecurityApplication.pdb
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/WarehouseSecurityApplication.GeneratedMSBuildEditorConfig.editorconfig
@@ -11,5 +9,5 @@
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/WarehouseSecurityApplication.dll
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/refint/WarehouseSecurityApplication.dll
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/WarehouseSecurityApplication.pdb
-/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/WarehouseSecurityApplication.genruntimeconfig.cache
 /Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/ref/WarehouseSecurityApplication.dll
+/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/obj/Debug/net8.0/WarehouseSecurityApplication.csproj.AssemblyReference.cache

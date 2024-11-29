@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -15,11 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository/" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\WarehouseSecurity\WarehouseSecurity.csproj" />
+    <ProjectReference Include="..\WarehouseSecurityApplication\WarehouseSecurityApplication.csproj" />
   </ItemGroup>
 
 </Project>

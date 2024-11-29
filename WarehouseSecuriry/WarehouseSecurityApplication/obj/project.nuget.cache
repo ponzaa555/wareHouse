@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "15XQB4llLqY=",
+  "dgSpecHash": "C/b3BgSAvy4=",
   "success": true,
   "projectFilePath": "/Users/napontansiri/Desktop/C#/warehouse/WarehouseSecuriry/WarehouseSecurityApplication/WarehouseSecurityApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/napontansiri/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/napontansiri/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/napontansiri/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
